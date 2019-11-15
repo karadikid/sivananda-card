@@ -1,6 +1,15 @@
-/* The flip card container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
+/* The flip card container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect 
+Flip card class sourced from https://www.w3schools.com/howto/howto_css_flip_card.asp before modification and integration.
+*/
+
 body {
   background-color: #F4AE35;
+}
+
+section.card-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
 }
 
 .flip-card {
@@ -45,9 +54,4 @@ body {
     background-color: dodgerblue;
     color: white;
     transform: rotateY(180deg);
-  }
-
-  section .card-container {
-    display: grid;
-    grid-template-columns: 33% 66%;
   }
