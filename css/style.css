@@ -8,22 +8,24 @@ body {
   color: #EDEDED;
 }
 
-h1 {
+h2 {
   font-size: 24px;
   color: #613531;
+  margin: 20px;
 }
 
 section.card-container {
   display: grid;
   grid-template-rows: auto;
   justify-content: center;
+  align-items:center;
 }
 
 article.card {
   display: grid;
   grid-template-columns: auto;
-  align-items: center;
-  margin: 16px 0;
+  align-items: stretch;
+  margin: 12px 0;
 }
 
 article.copy {
@@ -32,6 +34,7 @@ article.copy {
   align-items: center;
   margin: 16px 0;
   border: 20px solid transparent;
+  font-size: 16px;
 }
 
 .card-image {
