@@ -1,4 +1,4 @@
-![OmMyGod Logo](Yoga.ommygod.com.png)
+![OmMyGod Logo](OmMyGodLogo.png)
 
 # Purpose
 This Website contains the framework for a future Yoga Web Application.  It illustrates using Cascading Stylesheets (CSS)Commit for functionality, eventually adding Javascript.
@@ -13,4 +13,4 @@ While viewing in the browser of your choice, best viewed in Chrome or Brave Desk
 2. Voiceover
 3. Pranayama Timing App
 
-![Demo Website](http://yoga.ommygod.com)
+[Demo Website](http://yoga.ommygod.com)
