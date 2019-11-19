@@ -1,4 +1,4 @@
-![OmMyGod Logo](OmMyGodLogo.png)
+![OmMyGod Logo](Yoga.ommygod.com.png)
 
 # Purpose
 This Website contains the framework for a future Yoga Web Application.  It illustrates using Cascading Stylesheets (CSS)Commit for functionality, eventually adding Javascript.
